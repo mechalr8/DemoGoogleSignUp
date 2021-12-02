@@ -1,0 +1,8 @@
+com/example/demogooglelogin/databinding/ActivityMainBinding.java
+ com.example.demogooglelogin.databinding.ActivityMainBinding
+com/example/demogooglelogin/BuildConfig.java
+ com.example.demogooglelogin.BuildConfig
+com/example/demogooglelogin/MainActivity.java
+ com.example.demogooglelogin.MainActivity
+ com.example.demogooglelogin.MainActivity$1
+ com.example.demogooglelogin.MainActivity$2
